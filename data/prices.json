@@ -1,1 +1,95 @@
-{"updated": "아직 수집 전입니다. GitHub Actions 실행 후 업데이트됩니다.", "items": []}
+{
+  "updated": "2026-04-07 13:45",
+  "items": [
+    {
+      "name": "Nike Dunk Low Panda",
+      "brand": "나이키",
+      "kream_id": 116006,
+      "kream_url": "https://kream.co.kr/products/116006",
+      "naver": {
+        "price": 14000,
+        "mall": "말퀴리빈티지",
+        "link": "https://marqurie.co.kr/product/detail.html?product_no=85237&cate_no=71&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open",
+        "title": "나이키 스포츠웨어 딥네이비 스탠다드핏 SB 덩크 로우 빅프린팅 코튼100 스웻 맨투맨 티셔츠 M",
+        "image": "https://shopping-phinf.pstatic.net/main_4605728/46057281553.jpg"
+      },
+      "source_price": 14000,
+      "sizes": [],
+      "best_roi": -999,
+      "best_size": "",
+      "updated": "2026-04-07 13:44"
+    },
+    {
+      "name": "Asics Gel-Kayano 14 Cream Black",
+      "brand": "아식스",
+      "kream_id": 166924,
+      "kream_url": "https://kream.co.kr/products/166924",
+      "naver": {
+        "price": 165800,
+        "mall": "쿠팡",
+        "link": "https://link.coupang.com/re/PCSNAVERPCSDP?pageKey=9457870697&ctag=9457870697&lptag=I28141070398&itemId=28141070398&vendorItemId=95177052637&spec=10305199",
+        "title": "아식스 젤카야노 14 크림 블랙 운동화 1201A019 남녀공용(증정품 수납백)  107+증정품 수납백  220",
+        "image": "https://shopping-phinf.pstatic.net/main_5943919/59439196084.jpg"
+      },
+      "source_price": 165800,
+      "sizes": [],
+      "best_roi": -999,
+      "best_size": "",
+      "updated": "2026-04-07 13:44"
+    },
+    {
+      "name": "Jordan 1 Retro High OG Chicago Lost and Found",
+      "brand": "조던",
+      "kream_id": 107643,
+      "kream_url": "https://kream.co.kr/products/107643",
+      "naver": {
+        "price": 58420,
+        "mall": "스이큐",
+        "link": "https://kor123.kr/product/detail.html?product_no=7677&cate_no=45&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open",
+        "title": "나이키 조던 1 레트로 하이 OG 시카고 DZ5485-612",
+        "image": "https://shopping-phinf.pstatic.net/main_5957519/59575191701.jpg"
+      },
+      "source_price": 58420,
+      "sizes": [],
+      "best_roi": -999,
+      "best_size": "",
+      "updated": "2026-04-07 13:44"
+    },
+    {
+      "name": "Nike Air Force 1 Low White",
+      "brand": "나이키",
+      "kream_id": 3566,
+      "kream_url": "https://kream.co.kr/products/3566",
+      "naver": {
+        "price": 42300,
+        "mall": "KREAM",
+        "link": "https://kream.co.kr/shopping-products/311354?size=100&utm_campaign=NAVER_SHOPPING_PARTNER_CPC&utm_content=Nike&utm_medium=cpc&utm_source=naver_shopping&utm_term=311354_2",
+        "title": "100 (TD) 나이키 에어포스 1 로우 이지온 화이트 FN0236-111",
+        "image": "https://shopping-phinf.pstatic.net/main_5783811/57838119250.jpg"
+      },
+      "source_price": 42300,
+      "sizes": [],
+      "best_roi": -999,
+      "best_size": "",
+      "updated": "2026-04-07 13:45"
+    },
+    {
+      "name": "Asics Gel-Nimbus 9 Cream",
+      "brand": "아식스",
+      "kream_id": 247631,
+      "kream_url": "https://kream.co.kr/products/247631",
+      "naver": {
+        "price": 777300,
+        "mall": "FETCHING",
+        "link": "https://fetching.co.kr/product/41504115?utm_source=naver&utm_medium=cps&utm_campaign=nfeed&PARTNERID=naver_ep_pc",
+        "title": "아식스 겔님버스 9 스니커즈 1201A424 CREAM / BLACK 화이트 남성",
+        "image": "https://shopping-phinf.pstatic.net/main_4575410/45754107107.jpg"
+      },
+      "source_price": 777300,
+      "sizes": [],
+      "best_roi": -999,
+      "best_size": "",
+      "updated": "2026-04-07 13:45"
+    }
+  ]
+}
