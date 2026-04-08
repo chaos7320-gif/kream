@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07 22:25",
+  "updated": "2026-04-08 00:05",
   "items": [
     {
       "name": "Nike Dunk Low Panda",
@@ -17,7 +17,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-07 22:24"
+      "updated": "2026-04-08 00:05"
     },
     {
       "name": "Asics Gel-Kayano 14 Cream Black",
@@ -26,16 +26,16 @@
       "kream_url": "https://kream.co.kr/products/166924",
       "naver": {
         "price": 8000,
-        "mall": "제이비안",
-        "link": "https://smartstore.naver.com/main/products/11011833928",
-        "title": "137 [호환] 아식스 젤카야노 14 셀프 비브람 밑창 보강 크림 블랙 운동화 신발 수선",
-        "image": "https://shopping-phinf.pstatic.net/main_8855634/88556340065.jpg"
+        "mall": "위드제이비안",
+        "link": "https://smartstore.naver.com/main/products/11378961471",
+        "title": "137 [호환] 셀프 비브람 밑창 보강 아식스 젤카야노 14 크림 블랙 운동화 신발 수선",
+        "image": "https://shopping-phinf.pstatic.net/main_8892347/88923471836.jpg"
       },
       "source_price": 8000,
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-07 22:24"
+      "updated": "2026-04-08 00:05"
     },
     {
       "name": "Jordan 1 Retro High OG Chicago Lost and Found",
@@ -43,17 +43,17 @@
       "kream_id": 107643,
       "kream_url": "https://kream.co.kr/products/107643",
       "naver": {
-        "price": 58420,
-        "mall": "퓨이우스",
-        "link": "https://abc321.co.kr/product/detail.html?product_no=2047&cate_no=61&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open",
-        "title": "나이키 NIKE 조던 1 레트로 하이 OG 시카고 DZ5485-612",
-        "image": "https://shopping-phinf.pstatic.net/main_5924649/59246491345.jpg"
+        "price": 88000,
+        "mall": "네이버",
+        "link": "https://search.shopping.naver.com/catalog/58395940789",
+        "title": "나이키 조던 1 레트로 로우 OG 시카고 HQ6996",
+        "image": "https://shopping-phinf.pstatic.net/main_5839594/58395940789.20260106012148.jpg"
       },
-      "source_price": 58420,
+      "source_price": 88000,
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-07 22:25"
+      "updated": "2026-04-08 00:05"
     },
     {
       "name": "Nike Air Force 1 Low White",
@@ -71,7 +71,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-07 22:25"
+      "updated": "2026-04-08 00:05"
     },
     {
       "name": "Asics Gel-Nimbus 9 Cream",
@@ -89,7 +89,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-07 22:25"
+      "updated": "2026-04-08 00:05"
     }
   ]
 }
