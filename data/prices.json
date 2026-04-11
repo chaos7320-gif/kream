@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11 21:05",
+  "updated": "2026-04-11 23:03",
   "items": [
     {
       "name": "Nike Dunk Low Panda",
@@ -17,7 +17,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 21:05"
+      "updated": "2026-04-11 23:03"
     },
     {
       "name": "Asics Gel-Kayano 14 Cream Black",
@@ -35,7 +35,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 21:05"
+      "updated": "2026-04-11 23:03"
     },
     {
       "name": "Jordan 1 Retro High OG Chicago Lost and Found",
@@ -44,16 +44,16 @@
       "kream_url": "https://kream.co.kr/products/107643",
       "naver": {
         "price": 58000,
-        "mall": "스이큐",
-        "link": "https://kor123.kr/product/detail.html?product_no=7677&cate_no=45&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open",
-        "title": "나이키 조던 1 레트로 하이 OG 시카고 DZ5485-612",
-        "image": "https://shopping-phinf.pstatic.net/main_5957519/59575191701.jpg"
+        "mall": "퓨이우스",
+        "link": "https://abc321.co.kr/product/detail.html?product_no=2047&cate_no=61&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open",
+        "title": "나이키 NIKE 조던 1 레트로 하이 OG 시카고 DZ5485-612",
+        "image": "https://shopping-phinf.pstatic.net/main_5924649/59246491345.jpg"
       },
       "source_price": 58000,
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 21:05"
+      "updated": "2026-04-11 23:03"
     },
     {
       "name": "Nike Air Force 1 Low White",
@@ -71,7 +71,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 21:05"
+      "updated": "2026-04-11 23:03"
     },
     {
       "name": "Asics Gel-Nimbus 9 Cream",
@@ -89,7 +89,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 21:05"
+      "updated": "2026-04-11 23:03"
     }
   ]
 }
