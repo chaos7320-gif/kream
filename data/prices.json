@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11 19:52",
+  "updated": "2026-04-11 21:05",
   "items": [
     {
       "name": "Nike Dunk Low Panda",
@@ -17,7 +17,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 19:51"
+      "updated": "2026-04-11 21:05"
     },
     {
       "name": "Asics Gel-Kayano 14 Cream Black",
@@ -25,17 +25,17 @@
       "kream_id": 166924,
       "kream_url": "https://kream.co.kr/products/166924",
       "naver": {
-        "price": 219000,
-        "mall": "쿠팡",
-        "link": "https://link.coupang.com/re/PCSNAVERPCSDP?pageKey=9457870697&ctag=9457870697&lptag=I28141070398&itemId=28141070398&vendorItemId=95150729847&spec=10305199",
-        "title": "아식스 젤카야노 14 크림 블랙 운동화 1201A019 남녀공용(증정품 수납백)  107+증정품 수납백  220",
-        "image": "https://shopping-phinf.pstatic.net/main_5943919/59439196084.jpg"
+        "price": 8000,
+        "mall": "제이비안",
+        "link": "https://smartstore.naver.com/main/products/11011833928",
+        "title": "137 [호환] 아식스 젤카야노 14 셀프 비브람 밑창 보강 크림 블랙 운동화 신발 수선",
+        "image": "https://shopping-phinf.pstatic.net/main_8855634/88556340065.jpg"
       },
-      "source_price": 219000,
+      "source_price": 8000,
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 19:51"
+      "updated": "2026-04-11 21:05"
     },
     {
       "name": "Jordan 1 Retro High OG Chicago Lost and Found",
@@ -53,7 +53,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 19:51"
+      "updated": "2026-04-11 21:05"
     },
     {
       "name": "Nike Air Force 1 Low White",
@@ -71,7 +71,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 19:52"
+      "updated": "2026-04-11 21:05"
     },
     {
       "name": "Asics Gel-Nimbus 9 Cream",
@@ -89,7 +89,7 @@
       "sizes": [],
       "best_roi": -999,
       "best_size": "",
-      "updated": "2026-04-11 19:52"
+      "updated": "2026-04-11 21:05"
     }
   ]
 }
